@@ -90,6 +90,16 @@ A work breakdoen structure is a hierachical decomposition of  a project into sma
  - Enhances team productivity
 
 ## 7. What are the benefits of developing a detailed project schedule, and how can Gantt charts assist in this process?
+ Benefits include:
+ - Better time management due to good time alloation.
+ - Resource optimization that prevents overloadin team members.
+ - Ensures timely delivery of the project.
+
+Gantt charts can aid  in the following ways:
+- Provide a clear timeline.
+- They help identify task dependencies.
+- Improve team coordination as responsibilities are well laid out.
+  
 ## 8. What are the core issues that your software aims to address? Why are these problems significant to your target audience?
 ## 9. How can clearly defining the problem help in developing a more effective software solution?
 ## 10. How would you describe your software solution in a way that captures its essence without diving into technical details?
