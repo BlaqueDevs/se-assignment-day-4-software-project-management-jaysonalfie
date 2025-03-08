@@ -68,7 +68,27 @@ Agile is more beneficial in projects that arae dynamic and requiremenst are subj
 Waterfall is more beneficial in projects with projects with clear and fixed requirements such as regulatory or compliance-driven systems such as banking systems and government projects.
 
 ## 5. What are some methods for ensuring quality assurance throughout a software project? Why is it important to maintain high standards?
+Some of the methods of ensuring quality assurance include:
+ - Adopting a testing driven approach jhence testing at every development stage.
+ - Automated testing to increase efficiency and consistency
+ - Encouraging code reviews and paired programming
+ - Use of continuous integration and continous deployment.
+
+It is important to maintain high standards because:
+  - It ensures a seamless experience and meets user expectations.
+  - Reduces vulnerabilities and preventing data breaches.
+  - Ensures the softare functions correctly under various conditions.
 ## 6. How does defining the project scope contribute to successful project planning? What is a Work Breakdown Structure (WBS), and why is it useful?
+Defining the project scope is important beacuse:
+ - Ensures all stakeholders have a common understanding of the project objectives.
+ - It prevents scope creep.
+ - It assists in assignig the right amount of time, budget and personnel to tasks
+
+A work breakdoen structure is a hierachical decomposition of  a project into smaller , manageable components. It is useful because :
+ - Organizes tasks logically
+ - Improves project scheduling
+ - Enhances team productivity
+
 ## 7. What are the benefits of developing a detailed project schedule, and how can Gantt charts assist in this process?
 ## 8. What are the core issues that your software aims to address? Why are these problems significant to your target audience?
 ## 9. How can clearly defining the problem help in developing a more effective software solution?
