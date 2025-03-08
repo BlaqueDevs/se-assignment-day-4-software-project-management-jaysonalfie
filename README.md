@@ -101,8 +101,34 @@ Gantt charts can aid  in the following ways:
 - Improve team coordination as responsibilities are well laid out.
   
 ## 8. What are the core issues that your software aims to address? Why are these problems significant to your target audience?
+The software aims to address the following issues:
+ - Automation of repetitive tasks.
+ - Data security and privacy.
+ - scalability and performance to accommofdate more users.
+The problems are significnt because its what they experience daily and the software aims to help solve these problems.
+
 ## 9. How can clearly defining the problem help in developing a more effective software solution?
+ It helps as it:
+  - Ensures that developers address the actual needs of users.
+  - Reduces unnecessary features among stakeholders and developers.
+  - Aligns expectations among stakeholders and developers.
+  - Helps track progress and assess success based on predefined objectives.
 ## 10. How would you describe your software solution in a way that captures its essence without diving into technical details?
+ The best way to achieve this is to state what problem it solves and the benefits that it will be able to provide and what impact it will bring to the daily lives of the users.
+ 
 ## 11. What are the main features or functionalities that make your software stand out?
+ They include:
+ - Automated workflow
+ - Enhanced security measures
+ - Seamless integration with existing business tools and platforms
+ - User centric design.
 ## 12. What data is available regarding the market size and growth potential for your software?
+The data that is availble is that :
+ - There is high adoption of software that are of its kind.
+ - There are also legal factors that favour the demand of such software.
+ - There is also an uprise is customer use of such apps.
 ## 13. How can understanding market trends inform your software’s positioning and development?
+It can help by :
+ - aligning features and user experience with evolving customer expectations.
+ - Anticipating industry trends to adapt business strategies accordingly.
+ - staying ahead of technological advancements to remain competitive.
