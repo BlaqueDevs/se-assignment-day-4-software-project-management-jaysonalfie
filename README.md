@@ -63,6 +63,10 @@ Agile Methodology
  - Can be challenging for large projects or long term projects with strict regulatory requirements.
 
 ## 4. In what types of projects might Agile be more beneficial than Waterfall, and vice versa? Can you provide examples of each?
+Agile is more beneficial in projects that arae dynamic and requiremenst are subject to change such as mobile apps, startups or customer facing applications.
+
+Waterfall is more beneficial in projects with projects with clear and fixed requirements such as regulatory or compliance-driven systems such as banking systems and government projects.
+
 ## 5. What are some methods for ensuring quality assurance throughout a software project? Why is it important to maintain high standards?
 ## 6. How does defining the project scope contribute to successful project planning? What is a Work Breakdown Structure (WBS), and why is it useful?
 ## 7. What are the benefits of developing a detailed project schedule, and how can Gantt charts assist in this process?
